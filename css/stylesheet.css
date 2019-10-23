@@ -1,0 +1,57 @@
+
+/*--- Nav Carousel ---*/
+
+.nav-bg{
+    background-image: url("../img/5.jpg");
+    background-size: cover;
+    
+}
+
+.biz{
+    border-left-width: 50px solid green;
+}
+
+/* Our Mission Section */
+
+.bg{
+    background-image: url("../img/bg.jpg");
+    background-position: bottom top;
+    background-size: cover;
+
+}
+ /* ABOUT US */
+
+ hr{
+     width: 80px;
+     height: 10px;
+
+ }
+
+ /* SERVICES */
+
+.serv{
+    height: 100px;
+    font-family: impact;
+}
+i{
+    color: red;
+}
+
+
+/* FORM SECTION */
+
+input{
+    padding: 10px;
+  width: 60%;
+  align:center;
+  
+}
+
+.center{
+    margin-left: 299px;
+}
+
+.reg-but{
+    margin-left: 500px;
+}
+
